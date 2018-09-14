@@ -1,0 +1,11 @@
+name: SDMC
+main: com.github.wulf.sdmc.SDMC
+version: 1.0
+author: wulf
+depend: [SkillAPI, DivineItemsRPG]
+api-version: 1.13
+
+commands:
+   sm:
+      description: 23333
+      usage: /sm
